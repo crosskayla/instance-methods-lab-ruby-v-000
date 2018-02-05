@@ -1,2 +1,3 @@
-def Person
+class Person
+  def talk
 end
